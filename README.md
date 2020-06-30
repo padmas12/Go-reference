@@ -1,4 +1,4 @@
 Golang features
 
  * coroutines
- * assignement is a copy
+ * assignment is a copy
